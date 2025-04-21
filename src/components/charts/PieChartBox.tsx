@@ -7,10 +7,10 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from "recharts";
-
+import analyticsData from "@/data/analytics.json";
 const COLORS = ["#34d399", "#f87171", "#60a5fa", "#fbbf24"];
 
-export default function PieChartBox({ data }: { data: any[] }) {
+export default function PieChartBox({ data }: { data: typeof analyticsData }) {
   const pieData = [
     {
       name: "Bounced",

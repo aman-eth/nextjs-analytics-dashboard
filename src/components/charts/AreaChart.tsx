@@ -9,8 +9,8 @@ import {
   Tooltip,
   ResponsiveContainer,
 } from "recharts";
-
-export default function AreaChart({ data }: { data: any[] }) {
+import analyticsData from "@/data/analytics.json";
+export default function AreaChart({ data }: { data: typeof analyticsData }) {
   return (
     <ResponsiveContainer width="100%" height={300}>
       <ReAreaChart data={data}>

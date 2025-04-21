@@ -1,7 +1,12 @@
 "use client";
 import { saveAs } from "file-saver";
+import analyticsData from "@/data/analytics.json";
 
-export default function ExportCSVButton({ data }: { data: any[] }) {
+export default function ExportCSVButton({
+  data,
+}: {
+  data: typeof analyticsData;
+}) {
   const handleExport = () => {
     const csv = [
       ["Date", "Visitors", "Sales", "Revenue", "Bounce Rate"],

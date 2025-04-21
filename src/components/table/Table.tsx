@@ -1,16 +1,7 @@
 "use client";
 
 import React from "react";
-import {
-  flexRender,
-  getCoreRowModel,
-  getFilteredRowModel,
-  getPaginationRowModel,
-  getSortedRowModel,
-  SortingState,
-  useReactTable,
-  ColumnDef,
-} from "@tanstack/react-table";
+import { flexRender } from "@tanstack/react-table";
 import { useAnalyticsTable } from "@/hooks/useAnalyticsTable";
 
 type Analytics = {

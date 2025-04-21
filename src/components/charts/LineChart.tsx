@@ -9,8 +9,9 @@ import {
   CartesianGrid,
   ResponsiveContainer,
 } from "recharts";
+import analyticsData from "@/data/analytics.json";
 
-export default function LineChart({ data }: { data: any[] }) {
+export default function LineChart({ data }: { data: typeof analyticsData }) {
   return (
     <ResponsiveContainer width="100%" height={300}>
       <ReLineChart data={data}>

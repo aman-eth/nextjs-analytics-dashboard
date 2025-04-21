@@ -19,7 +19,7 @@ export default function RoleGuard({ children, allowedRoles }: Props) {
     } else if (user && !allowedRoles.includes(user.role)) {
       router.replace("/unauthorized");
     }
-  }, [isAuthenticated, user]);
+  }, [isAuthenticated, user, router, allowedRoles]);
 
   if (!isAuthenticated || (user && !allowedRoles.includes(user.role)))
     return null;
