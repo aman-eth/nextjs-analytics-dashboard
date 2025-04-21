@@ -1,0 +1,415 @@
+[
+  {
+    "date": "2024-01-01",
+    "visitors": 120,
+    "sales": 35,
+    "revenue": 3500,
+    "bounceRate": 35
+  },
+  {
+    "date": "2024-01-02",
+    "visitors": 200,
+    "sales": 50,
+    "revenue": 5000,
+    "bounceRate": 30
+  },
+  {
+    "date": "2024-01-03",
+    "visitors": 175,
+    "sales": 42,
+    "revenue": 4200,
+    "bounceRate": 32
+  },
+  {
+    "date": "2024-01-04",
+    "visitors": 190,
+    "sales": 45,
+    "revenue": 4500,
+    "bounceRate": 28
+  },
+  {
+    "date": "2024-01-05",
+    "visitors": 250,
+    "sales": 60,
+    "revenue": 6000,
+    "bounceRate": 25
+  },
+  {
+    "date": "2024-01-06",
+    "visitors": 180,
+    "sales": 40,
+    "revenue": 4000,
+    "bounceRate": 33
+  },
+  {
+    "date": "2024-01-07",
+    "visitors": 160,
+    "sales": 38,
+    "revenue": 3800,
+    "bounceRate": 35
+  },
+  {
+    "date": "2024-01-08",
+    "visitors": 210,
+    "sales": 52,
+    "revenue": 5200,
+    "bounceRate": 29
+  },
+  {
+    "date": "2024-01-09",
+    "visitors": 230,
+    "sales": 55,
+    "revenue": 5500,
+    "bounceRate": 27
+  },
+  {
+    "date": "2024-01-10",
+    "visitors": 195,
+    "sales": 48,
+    "revenue": 4800,
+    "bounceRate": 31
+  },
+  {
+    "date": "2024-01-11",
+    "visitors": 185,
+    "sales": 44,
+    "revenue": 4400,
+    "bounceRate": 34
+  },
+  {
+    "date": "2024-01-12",
+    "visitors": 205,
+    "sales": 49,
+    "revenue": 4900,
+    "bounceRate": 30
+  },
+  {
+    "date": "2024-01-13",
+    "visitors": 170,
+    "sales": 41,
+    "revenue": 4100,
+    "bounceRate": 36
+  },
+  {
+    "date": "2024-01-14",
+    "visitors": 155,
+    "sales": 37,
+    "revenue": 3700,
+    "bounceRate": 38
+  },
+  {
+    "date": "2024-01-15",
+    "visitors": 220,
+    "sales": 53,
+    "revenue": 5300,
+    "bounceRate": 26
+  },
+  {
+    "date": "2024-01-16",
+    "visitors": 240,
+    "sales": 58,
+    "revenue": 5800,
+    "bounceRate": 24
+  },
+  {
+    "date": "2024-01-17",
+    "visitors": 200,
+    "sales": 47,
+    "revenue": 4700,
+    "bounceRate": 32
+  },
+  {
+    "date": "2024-01-18",
+    "visitors": 180,
+    "sales": 43,
+    "revenue": 4300,
+    "bounceRate": 35
+  },
+  {
+    "date": "2024-01-19",
+    "visitors": 215,
+    "sales": 51,
+    "revenue": 5100,
+    "bounceRate": 28
+  },
+  {
+    "date": "2024-01-20",
+    "visitors": 165,
+    "sales": 39,
+    "revenue": 3900,
+    "bounceRate": 37
+  },
+  {
+    "date": "2024-01-21",
+    "visitors": 150,
+    "sales": 36,
+    "revenue": 3600,
+    "bounceRate": 39
+  },
+  {
+    "date": "2024-01-22",
+    "visitors": 225,
+    "sales": 54,
+    "revenue": 5400,
+    "bounceRate": 25
+  },
+  {
+    "date": "2024-01-23",
+    "visitors": 235,
+    "sales": 56,
+    "revenue": 5600,
+    "bounceRate": 23
+  },
+  {
+    "date": "2024-01-24",
+    "visitors": 195,
+    "sales": 46,
+    "revenue": 4600,
+    "bounceRate": 33
+  },
+  {
+    "date": "2024-01-25",
+    "visitors": 175,
+    "sales": 42,
+    "revenue": 4200,
+    "bounceRate": 36
+  },
+  {
+    "date": "2024-01-26",
+    "visitors": 210,
+    "sales": 50,
+    "revenue": 5000,
+    "bounceRate": 29
+  },
+  {
+    "date": "2024-01-27",
+    "visitors": 160,
+    "sales": 38,
+    "revenue": 3800,
+    "bounceRate": 38
+  },
+  {
+    "date": "2024-01-28",
+    "visitors": 145,
+    "sales": 35,
+    "revenue": 3500,
+    "bounceRate": 40
+  },
+  {
+    "date": "2024-01-29",
+    "visitors": 230,
+    "sales": 55,
+    "revenue": 5500,
+    "bounceRate": 24
+  },
+  {
+    "date": "2024-01-30",
+    "visitors": 245,
+    "sales": 59,
+    "revenue": 5900,
+    "bounceRate": 22
+  },
+  {
+    "date": "2024-01-31",
+    "visitors": 190,
+    "sales": 45,
+    "revenue": 4500,
+    "bounceRate": 34
+  },
+  {
+    "date": "2025-03-01",
+    "visitors": 280,
+    "sales": 65,
+    "revenue": 6500,
+    "bounceRate": 20
+  },
+  {
+    "date": "2025-03-05",
+    "visitors": 295,
+    "sales": 68,
+    "revenue": 6800,
+    "bounceRate": 19
+  },
+  {
+    "date": "2025-03-10",
+    "visitors": 305,
+    "sales": 70,
+    "revenue": 7000,
+    "bounceRate": 18
+  },
+  {
+    "date": "2025-03-15",
+    "visitors": 310,
+    "sales": 72,
+    "revenue": 7200,
+    "bounceRate": 18
+  },
+  {
+    "date": "2025-03-20",
+    "visitors": 300,
+    "sales": 69,
+    "revenue": 6900,
+    "bounceRate": 20
+  },
+  {
+    "date": "2025-03-25",
+    "visitors": 290,
+    "sales": 67,
+    "revenue": 6700,
+    "bounceRate": 21
+  },
+  {
+    "date": "2025-03-31",
+    "visitors": 295,
+    "sales": 68,
+    "revenue": 6800,
+    "bounceRate": 22
+  },
+  {
+    "date": "2025-04-01",
+    "visitors": 320,
+    "sales": 75,
+    "revenue": 7500,
+    "bounceRate": 19
+  },
+  {
+    "date": "2025-04-05",
+    "visitors": 325,
+    "sales": 76,
+    "revenue": 7600,
+    "bounceRate": 18
+  },
+  {
+    "date": "2025-04-10",
+    "visitors": 330,
+    "sales": 77,
+    "revenue": 7700,
+    "bounceRate": 17
+  },
+  {
+    "date": "2025-04-15",
+    "visitors": 335,
+    "sales": 78,
+    "revenue": 7800,
+    "bounceRate": 17
+  },
+  {
+    "date": "2025-04-20",
+    "visitors": 315,
+    "sales": 73,
+    "revenue": 7300,
+    "bounceRate": 19
+  },
+  {
+    "date": "2025-04-25",
+    "visitors": 310,
+    "sales": 72,
+    "revenue": 7200,
+    "bounceRate": 20
+  },
+  {
+    "date": "2025-04-30",
+    "visitors": 305,
+    "sales": 70,
+    "revenue": 7000,
+    "bounceRate": 21
+  },
+  {
+    "date": "2025-05-01",
+    "visitors": 350,
+    "sales": 82,
+    "revenue": 8200,
+    "bounceRate": 16
+  },
+  {
+    "date": "2025-05-05",
+    "visitors": 355,
+    "sales": 83,
+    "revenue": 8300,
+    "bounceRate": 16
+  },
+  {
+    "date": "2025-05-10",
+    "visitors": 360,
+    "sales": 84,
+    "revenue": 8400,
+    "bounceRate": 15
+  },
+  {
+    "date": "2025-05-15",
+    "visitors": 365,
+    "sales": 85,
+    "revenue": 8500,
+    "bounceRate": 15
+  },
+  {
+    "date": "2025-05-20",
+    "visitors": 355,
+    "sales": 83,
+    "revenue": 8300,
+    "bounceRate": 16
+  },
+  {
+    "date": "2025-05-25",
+    "visitors": 345,
+    "sales": 80,
+    "revenue": 8000,
+    "bounceRate": 17
+  },
+  {
+    "date": "2025-05-31",
+    "visitors": 340,
+    "sales": 79,
+    "revenue": 7900,
+    "bounceRate": 18
+  },
+  {
+    "date": "2025-06-01",
+    "visitors": 380,
+    "sales": 88,
+    "revenue": 8800,
+    "bounceRate": 14
+  },
+  {
+    "date": "2025-06-05",
+    "visitors": 385,
+    "sales": 89,
+    "revenue": 8900,
+    "bounceRate": 14
+  },
+  {
+    "date": "2025-06-10",
+    "visitors": 390,
+    "sales": 90,
+    "revenue": 9000,
+    "bounceRate": 13
+  },
+  {
+    "date": "2025-06-15",
+    "visitors": 395,
+    "sales": 92,
+    "revenue": 9200,
+    "bounceRate": 13
+  },
+  {
+    "date": "2025-06-20",
+    "visitors": 385,
+    "sales": 89,
+    "revenue": 8900,
+    "bounceRate": 14
+  },
+  {
+    "date": "2025-06-25",
+    "visitors": 375,
+    "sales": 87,
+    "revenue": 8700,
+    "bounceRate": 15
+  },
+  {
+    "date": "2025-06-30",
+    "visitors": 370,
+    "sales": 86,
+    "revenue": 8600,
+    "bounceRate": 16
+  }
+]
