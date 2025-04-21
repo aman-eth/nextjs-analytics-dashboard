@@ -1,6 +1,6 @@
 "use client";
 
-import React, { ReactNode, useState } from "react";
+import React, { ReactNode, useEffect, useState } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { cn } from "@/lib/utils";
@@ -34,6 +34,21 @@ export default function DashboardLayout({ children }: { children: ReactNode }) {
     dispatch(logout());
     router.push("/auth/login");
   };
+
+  const [isLoading, setIsLoading] = useState(true);
+  const { isAuthenticated } = useAppSelector((state) => state.auth);
+
+  useEffect(() => {
+    if (!isAuthenticated) {
+      router.replace("/auth/login");
+    } else {
+      setIsLoading(false);
+    }
+  }, [isAuthenticated, router]);
+
+  if (isLoading) {
+    return <>{children}</>;
+  }
 
   return (
     <div className="flex min-h-screen bg-gray-50 dark:bg-gray-950 text-gray-900 dark:text-gray-100">

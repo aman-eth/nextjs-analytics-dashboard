@@ -6,7 +6,6 @@ import authReducer from "./slices/authSlice";
 
 const rootReducer = combineReducers({
   auth: authReducer,
-  // Add more slices here
 });
 
 const persistConfig = {
@@ -21,7 +20,7 @@ export const store = configureStore({
   reducer: persistedReducer,
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware({
-      serializableCheck: false, // needed for redux-persist
+      serializableCheck: false,
     }),
 });
 
